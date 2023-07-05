@@ -1,0 +1,136 @@
+
+		span
+		{
+			font-size: 50px;
+			color: white;
+			text-align: center;
+			text-align-last: center;
+		}
+		body
+		{
+			width: 100%;
+			height: 100%;
+		}
+		div#table
+		{
+
+	        width: 800px;
+            height: 100%;
+            margin: 0 auto;
+            position: relative;
+            background-color: #008B8B;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+		}
+
+		div#table_2
+		{
+			
+	        width: 90%;
+            height: 90%;
+            margin: 0 auto;
+            position: relative;
+            border: solid 2px #00BFFF;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+		}
+		div#zon_1
+		{
+	        width: 100%;
+            height: 50%;
+            margin: 0 auto;
+            position: relative;
+            border: dashed 2px #00BFFF;
+            display: flex;
+            flex-wrap: wrap;
+		}	
+		div#zon_2
+		{
+	        width: 100%;
+            height: 20%;
+            margin: 0 auto;
+            position: relative;
+            
+            display: flex;
+            justify-content: center;
+            align-items: center;
+		}	
+		div#lists
+		{
+	        width: 100%;
+            height: 100%;
+            margin: 0 auto;
+            position: relative;
+            
+            display: flex;
+            justify-content: center;
+            align-items: center;
+		}	
+		div#lists_1
+		{
+	        width: 100%;
+            height: 100%;
+            margin: 0 auto;
+            position: relative;
+            
+            display: flex;
+            flex-wrap: wrap;
+
+		}						
+		div#zon_3
+		{
+	        width: 100%;
+            height: 20%;
+            margin: 0 auto;
+            position: relative;
+            border: dashed 2px #00BFFF;
+
+		}			
+		#text 
+		{
+			width: 500px;
+
+		}
+		div#bacak
+		{
+			display: flex;
+			flex-wrap: wrap;
+			
+	        width: 95%;
+            height: 95%;
+            			
+		}
+		div.list
+		{
+			width: 50%;
+			height: 100px;
+			background-color: #00BFFF;
+			margin: 15px;
+			border-radius: 15px;
+			display: flex;
+            justify-content: center;
+            align-items: center;
+		}
+		div.photos
+		{
+			width: 100px;
+			height: 100px;
+			margin: 0 auto;
+			
+			
+			
+		}
+		div.historia
+		{
+			width: 100%;
+			height: 100%;
+			border-bottom: dashed 1px blue;
+			
+			
+			display: none;
+		}
+
